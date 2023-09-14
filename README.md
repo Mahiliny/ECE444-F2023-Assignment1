@@ -9,3 +9,5 @@
 
 ![Screen Shot 2023-09-13 at 4 25 58 PM](https://github.com/Mahiliny/ECE444-F2023-Assignment1/assets/97846637/e2b5ca0b-e417-4dfe-b01a-6cd1ec46dc5c)
 
+![Screen Shot 2023-09-13 at 11 37 28 PM](https://github.com/Mahiliny/ECE444-F2023-Assignment1/assets/97846637/0f126857-1e62-4dec-ad9c-e02e1122d274)
+
